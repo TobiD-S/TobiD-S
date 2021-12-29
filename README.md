@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**TobiD-S/TobiD-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tobi Dele-Safa.
 
-Here are some ideas to get you started:
+I am a Software Engineer/Product Manager who loves building products and solutions to problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technically, I focus on JavaScript/TypeScript Frontend frameworks such as React, Angular and Javascript runtime, Nodejs.
+
+Product-wise, I work with mainly fintech and edutech solutions, dabbling in VR, and web3 solutions as well.
+
+- 🔭 I’m currently working on a audit automation system
+- 🌱 I’m currently learning web3 technologies
+- 👯 I’m looking to collaborate on interesting products and solutions
+- 📫 How to reach me: delesafatobi@gmail.com
+- 😄 Pronouns: she/her/they
+- ⚡ Fun fact: I've never had pineapple pizza
