@@ -6,8 +6,6 @@ I am a Software Engineer/Product Manager who loves building products and solutio
 
 Technically, I focus on JavaScript/TypeScript Frontend frameworks such as React, Angular and Javascript runtime, Nodejs.
 
-Twitter Badge Linkedin Badge Mail Badge
-
 Product-wise, I work with mainly fintech and edutech solutions, dabbling in VR, and web3 solutions as well.
 
 - 🔭 I’m currently working on a audit automation system
