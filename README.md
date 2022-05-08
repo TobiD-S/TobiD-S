@@ -6,7 +6,7 @@ I am a Software Engineer/Product Manager who loves building products and solutio
 
 Technically, I focus on JavaScript/TypeScript Frontend frameworks such as React, Angular and Javascript runtime, Nodejs.
 
-Product-wise, I work with mainly fintech and edutech solutions, dabbling in VR, and web3 solutions as well.
+Product-wise, I work with mainly fintech and edutech solutions, dabbling in VR, and web3 solutions as well. Click [here](https://tobidelesafa.notion.site/Tobi-s-Product-Portfolio-e760890f9bfe453d86bada675ff95cd4 "Tobi's Product Portfolio") to go to my product portfolio 
 
 - 🔭 I’m currently working on a audit automation system
 - 🌱 I’m currently learning web3 technologies
